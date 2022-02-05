@@ -1,6 +1,6 @@
-<a>  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a>
+<a href="mailto:marcelohrpaulo13@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 Hi there !
-I'm Isaias,
+👨‍💻 I'm Isaias,
 
-Current curious student, and front-end developer (so far), and appreciate of new tecnologies and sports.
+Current curious student, and front-end developer (so far), and fascinated in new tecnologies and sports.
