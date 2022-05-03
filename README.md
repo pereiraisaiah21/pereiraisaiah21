@@ -2,5 +2,3 @@
 
 Hi there ! <br/>
 👨‍💻 I'm <b>Isaias</b>,
-
-Current curious student, and front-end developer (so far), and fascinated in new tecnologies and sports.
